@@ -1,1 +1,1 @@
-This folder contains various bits of information on the history of Q1 machines. The highlight is Daniel Alroy's story (Daniel was the founder and president of Q1 corporation).
+This folder contains various bits of information on the history of Q1 machines. The highlight is Daniel Alroy's story (Daniel was the founder and president of Q1 corporation). Most of the documentation here has been scanned by the Technikum29 computer museum in Germany (<a href="https://technikum29.de/">https://technikum29.de/</a>)
