@@ -1,0 +1,1 @@
+Most of the documentation here has been scanned by the Technikum29 computer museum in Germany (<a href="https://technikum29.de/">https://technikum29.de/</a>). The Q1 Lite main board schematics were provided by Karl-Wilhelm Wacker, who worked at Q1 in the Q1 Lite develoopment.
